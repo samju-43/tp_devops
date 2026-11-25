@@ -9,7 +9,8 @@ COLIS = {
     "GT-1001": {
         "client": "SOLTEGAB",
         "statut": "En transit",
-        "ville": "Libreville"
+        "ville": "Libreville",
+        "poids_kg": "120"
     },
     "GT-1002": {
         "client": "TRANSGABON FRET",
